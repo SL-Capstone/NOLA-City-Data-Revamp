@@ -1,6 +1,8 @@
-#NOLA-City-Data-Revamp
+NOLA-City-Data-Revamp
+=============
 
 Max weekly update 2/16/23
+
 
 #Current Progress: 
 Completed Pitch on 2/3/23, working towards transitioning from Phase 1 of the project (research/data analysis) to Phase 2 (working/constructing dashboard for the city). Logistics on the site building front out of our control, but preparing for when we have more insight.
