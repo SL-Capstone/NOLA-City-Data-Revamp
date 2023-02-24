@@ -1,13 +1,13 @@
 NOLA-City-Data-Revamp
 =============
 
-## Max weekly update 2/16/23 ##
+# Link to Test Site: https://app.powerbi.com/groups/me/apps/01e5ae05-d22f-4383-a0e6-fd2e3b03e571/reports/8e345f9b-fc91-4b0c-9a8e-7496d41e6beb/ReportSection?ctid=9de98183-25d9-4b13-9fc3-4de5489c1f3b #
+
+## Weekly update 2/24/23 ##
 
 
-### Current Progress: ### 
-Completed Pitch on 2/3/23, working towards transitioning from Phase 1 of the project (research/data analysis) to Phase 2 (working/constructing dashboard for the city). Logistics on the site building front out of our control, but preparing for when we have more insight.
+### Current Progress: 1st Draft Dashboard with Preliminary Data Analaysis Deployed. Working on expanding on that to make more meaningful Analysis through more complex methods of analysis. ### 
 
-Part of the preparation process will include pursuing and working through the pitch notes from the meeting:
 
 ### Pitch Notes (From Prof Mattei): ###
 
