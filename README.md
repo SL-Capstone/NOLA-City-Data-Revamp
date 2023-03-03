@@ -3,11 +3,12 @@ NOLA-City-Data-Revamp
 
 # Link to Test Site: https://app.powerbi.com/groups/me/apps/01e5ae05-d22f-4383-a0e6-fd2e3b03e571/reports/8e345f9b-fc91-4b0c-9a8e-7496d41e6beb/ReportSection?ctid=9de98183-25d9-4b13-9fc3-4de5489c1f3b #
 
-## Weekly update 2/24/23 ##
+## Weekly update 3/03/23 ##
 
 
-### Current Progress: 1st Draft Dashboard with Preliminary Data Analaysis Deployed. Working on expanding on that to make more meaningful Analysis through more complex methods of analysis. ### 
+### Current Progress: ###  Further unification of group efforts towards one common goal on our dashboard. Working on linking 3 datasets (address/location of cameras, address/location of blight (code violations), and address/location of crime) to further expand our data analysis and insights to provide tangible new information to the people at datadrivennola.org.
 
+Also looking at methods to have the data dynamically update as some of the datasets are updated daily and would quickly be outdated otherwise.
 
 ### Pitch Notes (From Prof Mattei): ###
 
@@ -49,8 +50,8 @@ NOLA-City-Data-Revamp
 
 * Dataset mash up
 
-### Abstract: ###
-Per our community service requirement, our team set out to research and identify significant inefficiencies that could be addressed on the government run site "datadrivennola.gov." Using NLP, Sentiment analysis, and other out-of-the-box text and categorical data analysis techniques, we created a comprehensive list of what users of the site were searching for and if there was a pattern in requests to fix specific problems or add specific features. We incorporated the results of this comprehensive analysis by crafting a polished and easy-to-use dashboard that included thorough data analysis for the most popular datasets on the site and addressed some of the prominent issues users of the site criticized it for. It is our belief that having created a more open and efficient way of obtaining dataset statistics #will greatly benefit users who want to extract important metrics from the datasets, but are not proficient enough in coding to do so.
+### Abstract (ver 2): ###
+Per our community service requirement, our team researched and identified significant requests and inefficiencies that could be addressed on the government-run site "datadrivennola.gov." Using NLP, Sentiment analysis, and categorical data analysis, we created a data analysis deck identifying specific patterns in user requests to fix problems or add specific features. We incorporated the results of this analysis into a polished and accessible dashboard with in-depth data analysis of some of the most prominent needs expressed by the New Orleans government. By producing new insights into New Orlean's datasets and presenting them in an easy-to-use format, we have created a powerful analytics tool for both "datadrivennola.gov" and its users.
 
 ### Additional links to work done: ###
 
