@@ -6,7 +6,8 @@ NOLA-City-Data-Revamp
 ## Weekly update 3/03/23 ##
 
 
-### Current Progress: ###  Further unification of group efforts towards one common goal on our dashboard. Working on linking 3 datasets (address/location of cameras, address/location of blight (code violations), and address/location of crime) to further expand our data analysis and insights to provide tangible new information to the people at datadrivennola.org.
+### Current Progress: ###
+Further unification of group efforts towards one common goal on our dashboard. Working on linking 3 datasets (address/location of cameras, address/location of blight (code violations), and address/location of crime) to further expand our data analysis and insights to provide tangible new information to the people at datadrivennola.org.
 
 Also looking at methods to have the data dynamically update as some of the datasets are updated daily and would quickly be outdated otherwise.
 
